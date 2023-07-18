@@ -1,6 +1,11 @@
-li{
-    color: green;
-}
 h1{
-    font-size: 50px;
+    color:#ff8100;
+}
+li{
+    color: #e2a9a9 ;
+}
+body{
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2019/02/27/jupiter-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
