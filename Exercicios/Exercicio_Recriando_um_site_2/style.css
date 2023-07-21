@@ -1,0 +1,22 @@
+.container{
+    background-color: #efe6e6;
+    margin:20px 150px 200px 150px; 
+    width: auto;
+    padding: 80px;
+    
+}
+
+.date{
+    color: #008080;
+    font-family: Roboto;
+}
+
+.title{
+    font-family: Montserrat;
+}
+
+.post{
+    font-family: Open Sans;
+    margin-left: 30px;
+}
+
