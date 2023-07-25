@@ -1,22 +1,32 @@
+body{
+    margin: 0px;
+}
+
 .container{
-    background-color: #efe6e6;
-    margin:20px 150px 200px 150px; 
-    width: auto;
-    padding: 80px;
+    background-color: #efe6e6; 
+    width: 70%;
+    height: 100%;
+    margin: 0% auto 0% auto;
     
 }
 
 .date{
     color: #008080;
-    font-family: Roboto;
+    font-family: 'Roboto';
 }
 
 .title{
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.post-content{
+    width: 90%;
+    font-family: 'Open Sans' , sans-serif;
+    font-weight: normal;
 }
 
 .post{
-    font-family: Open Sans;
-    margin-left: 30px;
+margin-left: 50px;
+padding-top: 20px;
+padding-left: 50px;
 }
-
